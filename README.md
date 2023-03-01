@@ -73,31 +73,3 @@ Gallabox aligns and easily integrates with all your CRM and E-commerce platforms
 ### Get Started with Gallabox
 
 Follow our handy guides to get started on the basics as quickly as possible:
-
-{% content-ref url="getting-started/creating-a-gallabox-account.md" %}
-[creating-a-gallabox-account.md](getting-started/creating-a-gallabox-account.md)
-{% endcontent-ref %}
-
-{% content-ref url="using-gallabox/contacts/" %}
-[contacts](using-gallabox/contacts/)
-{% endcontent-ref %}
-
-{% content-ref url="using-gallabox/conversations/" %}
-[conversations](using-gallabox/conversations/)
-{% endcontent-ref %}
-
-{% content-ref url="using-gallabox/bot/" %}
-[bot](using-gallabox/bot/)
-{% endcontent-ref %}
-
-{% content-ref url="using-gallabox/broadcast/" %}
-[broadcast](using-gallabox/broadcast/)
-{% endcontent-ref %}
-
-{% content-ref url="using-gallabox/pricing/" %}
-[pricing](using-gallabox/pricing/)
-{% endcontent-ref %}
-
-{% content-ref url="using-gallabox/settings/" %}
-[settings](using-gallabox/settings/)
-{% endcontent-ref %}

@@ -4,44 +4,6 @@ description: >-
   Add-ons, Subscription plans, etc.
 ---
 
-# ❓ FAQs
-
-### a. Gallabox Onboarding Pricing
-
-{% content-ref url="gallabox-onboarding.md" %}
-[gallabox-onboarding.md](gallabox-onboarding.md)
-{% endcontent-ref %}
-
-### b. Growth, Scale & Pro Plan Pricing
-
-{% content-ref url="growth-scale-and-pro-plan-pricing.md" %}
-[growth-scale-and-pro-plan-pricing.md](growth-scale-and-pro-plan-pricing.md)
-{% endcontent-ref %}
-
-### c. Conversation-based Pricing
-
-{% content-ref url="conversation-based-pricing.md" %}
-[conversation-based-pricing.md](conversation-based-pricing.md)
-{% endcontent-ref %}
-
-### d. Monthly & Annual Subscription Pricing
-
-{% content-ref url="monthly-and-annual-subscription-pricing.md" %}
-[monthly-and-annual-subscription-pricing.md](monthly-and-annual-subscription-pricing.md)
-{% endcontent-ref %}
-
-### e. Add-Ons Pricing
-
-{% content-ref url="add-ons.md" %}
-[add-ons.md](add-ons.md)
-{% endcontent-ref %}
-
-### f. New Pricing Details
-
-{% content-ref url="pricing-details.md" %}
-[pricing-details.md](pricing-details.md)
-{% endcontent-ref %}
-
 ### What is the difference between Gallabox & WhatsApp API gateway?
 
 Gallabox is built on the WhatsApp APIs and combines the advantages of WhatsApp’s native features along with the nifty features that Gallabox has added - all designed to streamline customer conversations from multiple channels to a single, collaborative shared inbox.

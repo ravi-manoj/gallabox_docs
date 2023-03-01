@@ -1,5 +1,5 @@
 ---
-description: 'Send Commerce Catalogues on WhatsApp: A Step by Step Guide'
+description: "Send Commerce Catalogues on WhatsApp: A Step by Step Guide"
 ---
 
 # 🛒 Catalogue
@@ -24,10 +24,6 @@ Now that we have understood what a list and a collection is, let us see how busi
 
 **2. Catalogue Specific Chatbot Flow -** With Gallabox’s easy to build no-code chatbot your business can create catalogue specific conversational flows to send a list of collections, a particular collection requested by the customer or even single products based on their filtered preferences, the options are endless.
 
-![](../../.gitbook/assets/ss\_anime\_3.gif)
+![](../../.gitbook/assets/ss_anime_3.gif)
 
 ### How to Connect FB Catalogue to Gallabox?
-
-{% content-ref url="connect-catalogue-to-gallabox.md" %}
-[connect-catalogue-to-gallabox.md](connect-catalogue-to-gallabox.md)
-{% endcontent-ref %}
